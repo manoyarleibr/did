@@ -98,6 +98,10 @@ carta status mana img {
     width: 70px;
 }
 
+carta status defesa valor {
+    color:gray;
+}
+
 carta status defesa img {    
     width: 50px;
 }
