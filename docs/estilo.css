@@ -81,8 +81,17 @@ carta status vida valor {
     
 }
 
+carta status vida valor {
+    color:red;
+
+}
+
 carta status vida img {    
     width: 70px;
+}
+
+carta status mana valor {
+    color:blue ;
 }
 
 carta status mana img {    
