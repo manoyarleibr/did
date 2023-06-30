@@ -37,7 +37,7 @@ carta topo nome {
     display: flex;
     background-color: burlywood;
     border-style: solid;
-    border-radius: 25px;
+    border-radius: 20px;
     border-color: burlywood;
 }
 
@@ -75,6 +75,10 @@ carta valor {
     display:block;
     text-align: center;
 
+}
+ 
+carta status vida valor {
+    
 }
 
 carta status vida img {    
