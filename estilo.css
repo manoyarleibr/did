@@ -1,0 +1,90 @@
+planoDeFundo img {
+background-image: 100px;
+width: auto;
+
+}
+
+carta {
+    display: block;
+    justify-items: center;
+    background-color: rgb(90, 57, 14);
+    padding: 10px;
+    width: 200px;
+    border-radius: 50px;
+    border-width: 15px;
+    border-style: solid;
+    border-color: rgb(150, 92, 16)
+}
+
+carta topo {
+    display: flex;
+    justify-content: space-between;    
+}
+
+
+carta topo alma {
+    width:50px;
+    height: 50px;
+    
+}
+carta topo alma img {
+    width: 60px;
+}
+
+
+
+carta topo nome {
+    display: flex;
+    background-color: burlywood;
+    border-style: solid;
+    border-radius: 25px;
+    border-color: burlywood;
+}
+
+carta topo virar {
+    display: flex;
+    width: 50px;
+    height: 50px;
+    
+}
+
+carta figura {
+    display: flex;
+    background-color: rgb(114, 74, 21);
+    height: 130px;
+    border-radius: 27px;
+    margin-top: 5px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: burlywood;
+}
+
+carta status {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:burlywood;
+    margin-top: 20px;
+    border-radius: 25px;
+    height: 100px;
+    padding: 10px;
+
+}
+
+carta valor {
+    display:block;
+    text-align: center;
+
+}
+
+carta status vida img {    
+    width: 70px;
+}
+
+carta status mana img {    
+    width: 70px;
+}
+
+carta status defesa img {    
+    width: 50px;
+}
