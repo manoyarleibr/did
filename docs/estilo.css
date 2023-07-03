@@ -75,15 +75,13 @@ carta valor {
     display:block;
     text-align: center;
 
-}
- 
-carta status vida valor {
-    
-}
+} 
 
 carta status vida valor {
+    border-style: solid;
+    background-color: brown;
+    border-radius: 20px;
     color:red;
-
 }
 
 carta status vida img {    
@@ -91,7 +89,10 @@ carta status vida img {
 }
 
 carta status mana valor {
-    color:blue ;
+    border-style: solid;
+    background-color: blue;
+    border-radius: 20px;
+    color:aqua ;
 }
 
 carta status mana img {    
@@ -99,7 +100,10 @@ carta status mana img {
 }
 
 carta status defesa valor {
-    color:gray;
+    border-style: solid;
+    background-color:rgb(76, 76, 76);
+    border-radius: 20px;
+    color:rgb(161, 161, 161);
 }
 
 carta status defesa img {    
