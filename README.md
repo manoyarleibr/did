@@ -3,4 +3,4 @@
 ### so estou colocando e que ta indo pra cabaça
 #### tem aver com isso mais ou menos
 ###### (ta una bosta a imagem) 
-<img scr="icon.png">
+<img src="icon.png">
